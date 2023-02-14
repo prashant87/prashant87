@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prashant87
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... DSP project ; radio front end projects GNSS, UWB, etc
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... on Embedded and SBC projects
 - 📫 How to reach me pg.prashant@gmail.com
 
 <!---
